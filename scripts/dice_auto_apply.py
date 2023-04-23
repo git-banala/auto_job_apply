@@ -9,6 +9,7 @@ import schedule
 import time
 import re
 
+
 def apply_jobs_dice():
     # Initialize the driver
     driver = webdriver.Chrome()
